@@ -53,4 +53,3 @@ let typeApp = new Vue({
         }
     }
 });
-
